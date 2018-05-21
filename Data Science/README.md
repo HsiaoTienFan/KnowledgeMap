@@ -1,4 +1,4 @@
-This folder will consist of the Data Science aspects of the knowledge map.
+This folder will consist of the Data Science elements of the knowledge map.
 
-To add:
+To be add:
  - Statistics aspects
