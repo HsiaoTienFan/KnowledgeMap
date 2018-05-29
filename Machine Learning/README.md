@@ -4,4 +4,5 @@ I want to have a section that has a general overview on the different types of m
 
 # Resource
 ** A very good source in terms of scope of machine learning techniques and tools**
+
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
