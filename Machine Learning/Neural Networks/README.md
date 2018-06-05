@@ -9,4 +9,4 @@ There are a number of different types of neural networks. This section will disc
 * Artificial Neural Networks
 * Recurrent Neural Networks
 * Deep Neural Networks
-
+* Transfer Learning
