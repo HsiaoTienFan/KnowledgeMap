@@ -10,3 +10,4 @@ There are a number of different types of neural networks. This section will disc
 * Recurrent Neural Networks
 * Deep Neural Networks
 * Transfer Learning
+* Generative Adversarial Networks 
