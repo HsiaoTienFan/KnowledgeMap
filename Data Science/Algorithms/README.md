@@ -5,3 +5,6 @@ To be added:
 * Sorting
 * Searching
 * Shortest path
+* Graphs
+* Trees
+* big(O) complexities
