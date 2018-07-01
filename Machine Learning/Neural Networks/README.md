@@ -11,3 +11,4 @@ There are a number of different types of neural networks. This section will disc
 * Deep Neural Networks
 * Transfer Learning
 * Generative Adversarial Networks 
+* Good embedding explaination http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
