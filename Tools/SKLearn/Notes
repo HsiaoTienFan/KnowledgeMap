@@ -1,0 +1,2 @@
+To get model from make_pipeline
+* model.steps[1][1].coef_
